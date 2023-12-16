@@ -1,0 +1,9 @@
+pkg update && upgrade
+pkg install git
+pkg install python
+pip install mechanize
+pip install requests
+pip install bs4
+pip install rich
+pip install play-audio
+control+shift+m+tab+esc
